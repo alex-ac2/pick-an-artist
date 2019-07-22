@@ -1,4 +1,4 @@
 module.exports = props => {
-  `Your favorite artist is ${props.artist}`
+  return  `Your favorite artist is ${props.artist}`
 }
 
