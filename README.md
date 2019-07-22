@@ -1,3 +1,3 @@
 # Pick-An-Artist
 
-Pick your favorite artist and pass there name through props
+Pick your favorite artist and pass their name through props
